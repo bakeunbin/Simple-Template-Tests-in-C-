@@ -1,0 +1,9 @@
+.out
+.exe
+
+build/
+debug/
+release/
+
+.vscode/
+.idea/
